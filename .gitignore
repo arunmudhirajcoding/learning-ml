@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+*.csv
+*.json
+data/
+models/
+.ipynb_checkpoints/
